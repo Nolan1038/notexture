@@ -14,7 +14,7 @@
     {
       "name": "Bird Flappy",
       "bundleIdentifier": "org.brandonplank.flappybird",
-      "marketplaceID": "0",
+      "marketplaceID": "",
       "developerName": "Brandon Plank",
       "subtitle": "Flap forever!",
       "localizedDescription": "Just flappy bird!",
