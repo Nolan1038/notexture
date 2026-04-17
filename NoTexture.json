@@ -27,7 +27,7 @@
           "downloadURL": "https://github.com/crypticplank/flappybird/releases/latest/download/org.brandonplank.flappybird.ipa",
           "size": 2100000,
           "version": "Latest",
-          "buildVersion": "",
+          "buildVersion": "1",
           "date": "2026-04-17T22:23:00-05:00",
           "localizedDescription": "Always latest",
           "minOSVersion": null
