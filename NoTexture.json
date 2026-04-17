@@ -4,7 +4,7 @@
   "description": "Welcome...",
   "iconURL": "https://i.imgur.com/AOunCmt.png",
   "website": "https://example.com",
-  "patreonURL": "https://example.com",
+  "patreonURL": "https://patreon.com/example",
   "tintColor": "#6156e2",
   "featuredApps": [
     "org.brandonplank.flappybird"
