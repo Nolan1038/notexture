@@ -10,28 +10,35 @@
     "org.brandonplank.flappybird"
   ],
   "headerURL": "https://i.imgur.com/ypPLb1D.png",
-"apps": [
-  {
-    "name": "Bird Flappy",
-    "bundleIdentifier": "org.brandonplank.flappybird",
-    "marketplaceID": "0",
-    "developerName": "Brandon Plank",
-    "subtitle": "Flap forever!",
-    "localizedDescription": "Just flappy bird!",
-    "iconURL": "https://i.imgur.com/tIUJeSs.png",
-    "tintColor": "#a5ad00",
-    "category": "entertainment",
-    "downloadURL": "https://github.com/crypticplank/flappybird/releases/latest/download/org.brandonplank.flappybird.ipa",
-    "version": "1.0.0",
-    "size": 2100000,
-    "date": "2026-04-17T22:23:00-05:00",
-    "screenshots": [],
-    "appPermissions": {
-      "entitlements": [],
-      "privacy": {}
+  "apps": [
+    {
+      "name": "Bird Flappy",
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "marketplaceID": "0",
+      "developerName": "Brandon Plank",
+      "subtitle": "Flap forever!",
+      "localizedDescription": "Just flappy bird!",
+      "iconURL": "https://i.imgur.com/tIUJeSs.png",
+      "tintColor": "#a5ad00",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/crypticplank/flappybird/releases/latest/download/org.brandonplank.flappybird.ipa",
+          "size": 2100000,
+          "version": "1.0.0",
+          "date": "2026-04-17T22:23:00-05:00",
+          "localizedDescription": "Just flappy bird!",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     }
-  }
-]
+  ],
   "news": [
     {
       "title": "Welcome",
